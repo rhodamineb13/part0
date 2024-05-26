@@ -1,4 +1,4 @@
-This is the exercise part 0, which consists of 6 tasks
+# This is the exercise part 0, which consists of 6 tasks
 
 1. Review the basics of HTML by reading this tutorial from Mozilla: HTML tutorial.
 
