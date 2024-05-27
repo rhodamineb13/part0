@@ -23,7 +23,7 @@ sequenceDiagram
 
     browser->>server: POST https://studies.cs.helsinki.fi/exampleapp/new_note
     activate server
-    server-->>browser: Status code 302 (Found)
+    server-->>browser: Status Code 302 (Found)
     deactivate server
 
-    Note right of browser: The browser executes the callback function that refreshes webpage and updates notes
+    Note right of browser: The browser executes the callback function that updates the notes and refreshes the webpage
